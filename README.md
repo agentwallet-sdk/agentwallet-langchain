@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Paused for security maintenance. Do not use in production.**
+
 # agentwallet-langchain
 
 A LangChain toolkit that gives agents a non-custodial wallet. Five `StructuredTool`s for checking balances, sending tokens, swapping, bridging cross-chain, and paying x402 endpoints — all backed by [agentwallet-sdk](https://www.npmjs.com/package/agentwallet-sdk).
